@@ -204,6 +204,14 @@ body.menu-open .menu {
         grid-template-columns: 1fr;
     }
 
+    .stat {
+        min-height:300px;
+    }
+
+    .stat__title{
+        font-size: 24px;
+    }
+
     .hero__title {
         font-size: 36px;
     }
